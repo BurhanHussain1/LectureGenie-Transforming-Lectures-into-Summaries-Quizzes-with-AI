@@ -1,0 +1,5 @@
+torch
+whisper
+transformers
+gradio
+concurrent.futures
